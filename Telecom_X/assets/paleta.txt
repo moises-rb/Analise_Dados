@@ -1,0 +1,60 @@
+# --- Paleta de Cores Padronizada para Telecom (com foco em Churn/Alerta) ---
+telecom_colors = {
+    'primary_blue': '#007bff',       # Azul principal (usado em ticks, labels, elementos neutros/positivos)
+    'secondary_blue': '#1e90ff',     # Dodgerblue (um azul vibrante, para barras gerais, informação)
+    'dark_blue': '#0056b3',          # Azul escuro
+    'info_blue': '#17a2b8',          # Azul ciano para informações/detalhes
+    'light_blue_bar': '#6495ED',     # Azul mais claro para barras (cornflowerblue)
+
+    'churn_alert_red': '#dc3545',    # VERMELHO DE ALERTA (para Churn, perdas, problemas)
+    'attention_orange': '#ffc107',   # Laranja para atenção/warning
+    'success_green': '#28a745',      # Verde para sucesso/positivo
+
+    'dark_text': '#333333',          # Cor padrão para textos escuros
+    'medium_gray': '#6c757d',        # Cinza médio para elementos neutros
+    'light_gray': '#f8f9fa',         # Cinza muito claro para fundos leves ou bordas
+    'white_text': '#FFFFFF',         # Cor para textos claros (em fundos escuros)
+    'border_gray': '#CCCCCC',        # Cinza para bordas e grades
+    'background_gray': '#EBEBEB'     # Cinza para fundo geral
+}
+
+
+# --- Função para obter cores da paleta ---
+def get_telecom_color(color_name):
+    """
+    Retorna o código hexadecimal da cor da paleta padronizada.
+
+    Args:
+        color_name (str): Nome da cor na paleta (ex: 'primary_blue', 'churn_alert_red').
+
+    Returns:
+        str: Código hexadecimal da cor.
+    """
+    return telecom_colors.get(color_name, '#000000') # Retorna preto se a cor não for encontrada
+
+# --- Função para aplicar as configurações de estilo global ---
+def apply_global_plot_style():
+    """
+    Aplica as configurações de estilo global padronizadas aos gráficos Matplotlib.
+    """
+    plt.rcParams['axes.facecolor'] = get_telecom_color('background_gray')
+    plt.rcParams['figure.facecolor'] = get_telecom_color('background_gray')
+    plt.rcParams['grid.color'] = get_telecom_color('border_gray')
+    plt.rcParams['grid.linewidth'] = 0.5
+    plt.rcParams['axes.edgecolor'] = get_telecom_color('border_gray')
+    plt.rcParams['xtick.color'] = get_telecom_color('primary_blue')
+    plt.rcParams['ytick.color'] = get_telecom_color('primary_blue')
+    plt.rcParams['text.color'] = get_telecom_color('dark_text')
+    plt.rcParams['axes.labelcolor'] = get_telecom_color('primary_blue')
+    plt.rcParams['axes.titlesize'] = 14
+    plt.rcParams['axes.titleweight'] = 'bold'
+    plt.rcParams['axes.spines.top'] = False
+    plt.rcParams['axes.spines.right'] = False
+
+# --- Aplica o estilo global (chamada única) ---
+apply_global_plot_style()
+
+print("Paleta de cores e estilo global definidos e aplicados.")
+
+# IMPORTANTE: A partir daqui, você pode carregar seu df_final e realizar os tratamentos.
+# Exemplo: df_final = pd.read_csv('seu_arquivo_de_dados.csv')
