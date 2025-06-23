@@ -74,7 +74,7 @@ A etapa de "Measure" cumpriu seu papel de fornecer **entendimento estatístico d
 
 **Moisés Ribeiro**  
 Projeto Green Belt - Análise de Dados e Melhoria de Processos  
-[🔗 LinkedIn](https://www.linkedin.com/in/moisesrb)  
+[🔗 LinkedIn](https://www.linkedin.com/in/moisesrsjr/)  
 [💻 Repositório Principal](https://github.com/moises-rb)
 
 ---
