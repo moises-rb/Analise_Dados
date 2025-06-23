@@ -64,15 +64,22 @@ Compreender a distribuição dos dados e testar sua aderência à normalidade é
 
 ---
 
-✅ Conclusão
-A etapa de "Measure" cumpriu seu papel de fornecer entendimento estatístico detalhado do comportamento da variável Tempo_atendimento. Confirmamos que os dados não seguem distribuição normal e possuem variabilidade significativa, o que orientará a escolha dos métodos analíticos mais apropriados na fase Analyse.
+## ✅ Conclusão
 
-👨‍💼 Autor
-Moisés Ribeiro
-Projeto Green Belt - Análise de Dados e Melhoria de Processos
-🔗 LinkedIn
-💻 Repositório Principal
+A etapa de "Measure" cumpriu seu papel de fornecer **entendimento estatístico detalhado** do comportamento da variável `Tempo_atendimento`. Confirmamos que os dados **não seguem distribuição normal** e possuem **variabilidade significativa**, o que orientará a escolha dos métodos analíticos mais apropriados na fase **Analyse**.
 
-📝 Observações
-Este projeto é parte da minha formação em Melhoria Contínua com foco na certificação Green Belt Seis Sigma.
-Todos os dados foram tratados e, quando necessário, anonimizados com fins educacionais e acadêmicos.
+---
+
+## 👨‍💼 Autor
+
+**Moisés Ribeiro**  
+Projeto Green Belt - Análise de Dados e Melhoria de Processos  
+[🔗 LinkedIn](https://www.linkedin.com/in/moisesrb)  
+[💻 Repositório Principal](https://github.com/moises-rb)
+
+---
+
+## 📝 Observações
+
+Este projeto é parte da minha formação em **Melhoria Contínua** com foco na certificação **Green Belt Seis Sigma**.  
+Todos os dados foram tratados e, quando necessário, **anonimizados** com fins **educacionais e acadêmicos**.
