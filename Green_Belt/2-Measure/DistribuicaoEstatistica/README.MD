@@ -61,7 +61,7 @@ Compreender a distribuição dos dados e testar sua aderência à normalidade é
  ┃ ┗ 📄 qqplot.png
  ┣ 📄 DistribuicaoEstatistica.ipynb
  ┗ 📄 README.md
-
+```
 ---
 
 ## ✅ Conclusão
