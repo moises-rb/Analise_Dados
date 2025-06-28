@@ -1,0 +1,102 @@
+Máquina,Descrição,Parada,,Tipo,Tempo,Mês
+1-INJ-001,Romi 1100,Aspirador de Material,Interno,Elétrico,13,1
+1-INJ-001,Romi 1100,Padronização CCQ,,Elétrico,"200,75",2
+1-INJ-001,Romi 1100,Queda de Energia,NA,Elétrico,"1,58",2
+1-INJ-001,Romi 1100,Resistência do Canhão,Interno,Elétrico,5,2
+1-INJ-001,Romi 1100,Padronização do novo sistema de Refrigeração,Interno,Molde,81,2
+1-INJ-001,Romi 1100,Manutenção da Torre de Resfriamento Externo,Interno,Mecânico,19,3
+1-INJ-001,Romi 1100,Resistência de Bico Quente,Interno,Molde,"100,75",3
+1-INJ-001,Romi 1100,Resistência do Canhão,Interno,Elétrico,3,4
+1-INJ-001,Romi 1100,Cilindro Hidráulico,Interno,Molde,"12,6",4
+1-INJ-001,Romi 1100,Manutenção na porta,Interno,Mecânico,"33,5",5
+1-INJ-001,Romi 1100,Manutenção interna altura do molde,Interno,Mecânico,"135,75",5
+1-INJ-001,Romi 1100,Equalização e Paralelismo (serviço terceiro),Terceiro,Mecânico,88,5
+1-INJ-001,Romi 1100,Resistência de Bico Quente,Interno,Molde,5,5
+1-INJ-001,Romi 1100,Problema do micro,Interno,Molde,10,5
+1-INJ-001,Romi 1100,Vazamento de água,Interno,Molde,"4,6",5
+1-INJ-023,Sandretto 450,Queda de Energia,NA,Elétrico,1,1
+1-INJ-023,Sandretto 450,Padronização do novo sistema de Refrigeração,Interno,Elétrico,"2,5",1
+1-INJ-023,Sandretto 450,Problema no trancamento,Interno,Elétrico,3,1
+1-INJ-023,Sandretto 450,Padronização do novo sistema de Refrigeração,Interno,Molde,17,1
+1-INJ-023,Sandretto 450,Quebra no pino da gaveta,Interno,Molde,18,1
+1-INJ-023,Sandretto 450,Queda de Energia,NA,Elétrico,1,2
+1-INJ-023,Sandretto 450,Painel Queimado (serviço terceiro),Terceiro,Elétrico,"200,75",2
+1-INJ-023,Sandretto 450,Quebra no pino da gaveta,Interno,Molde,"28,5",2
+1-INJ-023,Sandretto 450,Padronização do novo sistema de Refrigeração,Interno,Molde,54,2
+1-INJ-023,Sandretto 450,Problema de segurança (porta),Interno,Elétrico,24,3
+1-INJ-023,Sandretto 450,Manutenção interna altura do molde,Interno,Mecânico,66,3
+1-INJ-023,Sandretto 450,Pino Extrator,Interno,Molde,10,4
+1-INJ-023,Sandretto 450,Vazamento de água,Interno,Molde,"4,5",4
+1-INJ-023,Sandretto 450,Problema no bico de injeção,Interno,Mecânico,"28,5",5
+1-INJ-023,Sandretto 450,Quebrou postiço,Interno,Molde,17,5
+1-INJ-024,Sandretto 450,Queda de Energia,NA,Elétrico,1,1
+1-INJ-024,Sandretto 450,Queda de Energia,NA,Elétrico,"1,58",2
+1-INJ-024,Sandretto 450,Quebra no engate do gás,Interno,Molde,6,2
+1-INJ-024,Sandretto 450,Resistência do Canhão,Interno,Elétrico,1,4
+1-INJ-024,Sandretto 450,Manutenção interna altura do molde,Interno,Mecânico,"2,5",5
+1-INJ-025,Demag,Queda de Energia,NA,Elétrico,1,1
+1-INJ-025,Demag,Problema do micro,Interno,Molde,"15,5",1
+1-INJ-025,Demag,Ferrugem no molde,NA,Molde,"7,18",1
+1-INJ-025,Demag,Queda de Energia,Interno,Elétrico,"1,58",2
+1-INJ-025,Demag,Equalização e Paralelismo (serviço terceiro),Terceiro,Mecânico,"3,5",3
+1-INJ-025,Demag,Resistência do Canhão,Interno,Elétrico,1,4
+1-INJ-025,Demag,Problema no painel,Interno,Elétrico,"20,25",4
+1-INJ-025,Demag,Válvula de ar,Interno,Molde,"3,5",4
+1-INJ-025,Demag,Cilindro Hidráulico,Interno,Molde,"2,33",4
+1-INJ-025,Demag,Problema Geladeira,Interno,Elétrico,"13,5",5
+1-INJ-025,Demag,Resistência do Molde,Interno,Molde,5,5
+1-INJ-025,Demag,Problema no Micro,Interno,Molde,"3,33",5
+1-INJ-027,Sandreto 450,Queda de Energia,Interno,Elétrico,1,1
+1-INJ-027,Sandreto 450,Padronização do novo sistema de Refrigeração,Interno,Mecânico,"3,16",1
+1-INJ-027,Sandreto 450,Vazamento da mangueira,Interno,Mecânico,2,1
+1-INJ-027,Sandreto 450,Quebra no pino da gaveta,Interno,Molde,"15,5",1
+1-INJ-027,Sandreto 450,Quebra do macho do cilindro,Interno,Molde,14,1
+1-INJ-027,Sandreto 450,Queda de Energia,Interno,Elétrico,"1,58",2
+1-INJ-027,Sandreto 450,Problema de segurança (porta),Interno,Mecânico,"1,16",2
+1-INJ-027,Sandreto 450,Padronização do novo sistema de Refrigeração,Interno,Molde,"18,5",2
+1-INJ-027,Sandreto 450,Gaveta enrustida,Interno,Molde,14,2
+1-INJ-027,Sandreto 450,Cilindro de Plastificação (serviço terceiro),Terceiro,Mecânico,483,3
+1-INJ-027,Sandreto 450,Resistência do Canhão,Interno,Elétrico,1,4
+1-INJ-027,Sandreto 450,Pino Extrator,Interno,Molde,"15,5",5
+1-INJ-028,Sandreto 450,Queda de Energia,NA,Elétrico,1,1
+1-INJ-028,Sandreto 450,Padronização do novo sistema de Refrigeração,Interno,Mecânico,"2,66",1
+1-INJ-028,Sandreto 450,Peça presa,Interno,Molde,"0,41",1
+1-INJ-028,Sandreto 450,Queda de Energia,Interno,Elétrico,"1,58",2
+1-INJ-028,Sandreto 450,Padronização do novo sistema de Refrigeração,Interno,Molde,30,3
+1-INJ-028,Sandreto 450,Resistência do Canhão,Interno,Elétrico,2,4
+1-INJ-028,Sandreto 450,Vazamento da mangueira,Interno,Mecânico,2,5
+1-INJ-029,Sandreto 450,Queda de Energia,Interno,Elétrico,1,1
+1-INJ-029,Sandreto 450,Manutenção na porta,Interno,Mecânico,"15,33",1
+1-INJ-029,Sandreto 450,Regulagem Manifold,Interno,Molde,"0,33",1
+1-INJ-029,Sandreto 450,Pino do cilindro,Interno,Molde,1,1
+1-INJ-029,Sandreto 450,Queda de Energia,Interno,Elétrico,"1,58",2
+1-INJ-029,Sandreto 450,Quebra no pino da gaveta,Interno,Molde,"58,66",2
+1-INJ-029,Sandreto 450,Padronização do novo sistema de Refrigeração,Interno,Molde,"32,75",2
+1-INJ-029,Sandreto 450,Problema de segurança (porta),Interno,Elétrico,25,4
+1-INJ-029,Sandreto 450,Resistência do Canhão,Interno,Elétrico,1,4
+1-INJ-029,Sandreto 450,Vazamento da mangueira,Interno,Mecânico,28,4
+1-INJ-029,Sandreto 450,Vazamento da mangueira,Interno,Mecânico,"2,66",5
+1-INJ-029,Sandreto 450,Problema do micro,Interno,Molde,"22,75",5
+1-INJ-030,Sandreto 450,Queda de Energia,NA,Elétrico,1,1
+1-INJ-030,Sandreto 450,Queda de Energia,NA,Elétrico,"1,58",2
+1-INJ-030,Sandreto 450,Resistência do Canhão,Interno,Elétrico,1,4
+1-INJ-030,Sandreto 450,Cilindro das Cavidades,Interno,Molde,"90,66",4
+1-INJ-030,Sandreto 450,Problema Geladeira,Interno,Elétrico,36,5
+1-INJ-030,Sandreto 450,Segurança hidráulica,Interno,Mecânico,5,5
+1-INJ-031,Engel 1100,Queda de Energia,NA,Elétrico,1,1
+1-INJ-031,Engel 1100,Queda de Energia,NA,Elétrico,"1,58",2
+1-INJ-031,Engel 1100,Manutenção preventiva,Interno,Mecânico,"5,46",2
+1-INJ-031,Engel 1100,Resistência do Bico de Injeção,Interno,Elétrico,"17,33",4
+1-INJ-031,Engel 1100,Manutenção preventiva,Interno,Mecânico,52,5
+1-INJ-031,Engel 1100,Válvula de ar,Interno,Molde,"19,66",5
+1-INJ-031,Engel 1100,Manutenção pra retirar rebarba,Interno,Molde,42,5
+1-INJ-033,Engel 1100,Queda de Energia,NA,Elétrico,1,1
+1-INJ-033,Engel 1100,Queda de Energia,NA,Elétrico,"1,58",2
+1-INJ-033,Engel 1100,Manutenção preventiva,Interno,Elétrico,"50,33",2
+1-INJ-033,Engel 1100,Manutenção preventiva,Interno,Mecânico,"50,33",2
+1-INJ-033,Engel 1100,Resistência de Bico Quente,Interno,Molde,24,2
+1-INJ-033,Engel 1100,Cilindro de extração,Interno,Molde,"79,5",2
+1-INJ-033,Engel 1100,Resistência do Canhão,Interno,Elétrico,1,4
+1-INJ-033,Engel 1100,Padronização do novo sistema de Refrigeração,Interno,Molde,18,4
+1-INJ-033,Engel 1100,Padronização do novo sistema de Refrigeração,Interno,Molde,36,5
+1-INJ-033,Engel 1100,Resistência,Interno,Molde,51,5

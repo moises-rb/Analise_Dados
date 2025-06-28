@@ -1,0 +1,34 @@
+REGISTRO,DATA de admissão na empresa,Função,HORAS do A.T,HORAS trabalhadas,Estado civil,Data de nascimento,DATA do acidente,DIA da semana,TIPO de acidente,Tipo de acidente,ÁREA/LOCAL DE trabalho do acidentado,DESCRIÇÃO DO A.T.,DIAS perdidos,NATUREZA LESÃO,AGENTE DA LESÃO,PARTE DO corpo atingida
+1,22.03.11,Ajud. Montagem,06:35,0,Solteiro,11/11/1992,13/2/2012,SEGUNDA,TRAJETO,,Montagem,"Transitando moto, derrapou e caiu, escoriações braços, pernas e tronco",0,Escoriações,Veiculo,"Torax, braço e perna"
+2,23.05.88,Lider mecanico,15:00,07:00,Casado,24/2/1967,2/3/2012,SEXTA,ASA,,Manutenção,"Utiliz. alavanca em manut. injetora, escapou atingiu cab., pq hematoma",0,Contusão,Ferramenta manual,Cabeça
+3,22.03.11,Mont. III,17:15,0,Casado,12/3/1980,24/3/2012,SEXTA,TRAJETO,,Montagem,"Transitando moto, derrapou e caiu, escoriações braços direito.",0,Escoriações,Veiculo,Braço
+4,23.03.10,Aux. Expedição,10:00,03:00,Solteiro,9/6/1991,17/4/2012,TERÇA,ACA,,Expedição,"Ao descer palete, pisou no solo sentiu dores tornozelo",2,Entorse,Piso,Tornozelo
+5,27.09.10,Ajud. Montagem,09:00,02:15,Solteiro,16/12/1991,24/4/2012,TERÇA,ACA,,Montagem,Ao acionar rebidadeira deixou 2o dedo direito no ponto operação,4,Escoriações,Maquina,Dedos
+6,27.09.10,Mont. III,12:30,05:30,Solteiro,29/8/1994,13/8/2012,SEGUNDA,ACA,,Montagem,"Dedo ind.d. escorregou ficou raio ação do rebite, ferimento corte contuso",7,Corte,Maquina,Dedos
+7,14.01.08,Mont. III,10:40,03:45,Solteiro,15/2/1990,20/8/2012,SEGUNDA,ASA,,Montagem,"Ao pressionar ornamento do bolero, sentiu dor no polegar direito",0,Distensão,Ferramenta manual,Dedos
+8,13.01.10,Op. Injetora,00:15,00:15,Casado,11/12/1969,27/9/2012,QUINTA,ACA,,Injeção plastica,"Ao forçar estilete p/ cortar rebarba 3041, escorregou, feriu 3o dedo.",7,Corte,Ferramenta manual,Dedos
+9,18.10.10,Mont. III,06:40,0,Solteiro,17/11/1987,17/10/2012,QUARTA,ACA,,Montagem,"Estava sentado no chão, ao levantar bateu cabeça na rebitadeira (c.c)",0,Contusão,Maquina,Cabeça
+10,01.06.12,Mont. III,15:30,07:30,Casado,24/10/1984,25/10/2012,QUINTA,ASA,,Montagem,Sofreu peq. c.c. no dedo indicador dir. ao montar a roda do carr. Rio.,0,Corte,Ferramenta manual,Dedos
+11,20.03.02,Assist. de Suporte Tecnico,11:00,04:00,Casado,29/6/1981,29/10/2012,SEGUNDA,ACA,,Assist. Tecnnica,"Ao manipular estilete, feriu a palma da mão esquerda",6,Corte,Ferramenta manual,Mãos
+12,03.11.09,Aux. Almoxarifado,17:15,0,Solteiro,18/12/1992,5/11/2012,SEGUNDA,TRAJETO,,Suprimentos,"Após trab., trafegando de moto para sua redidencia, trauma joelho esq",0,Traumatismo,Veiculo,Pernas
+1,07.03.13,Ajud. Montagem,08:00,01:00,Solteiro,10.05.82,14/3/2013,Quinta,TRAJETO,ASA,Montagem,"Prensou dedo entre perna dianteira e tubo do centro AT 2, escoriaçoes",0,Escoriações,Peça do produto,Polegar esquerdo
+2,08.04.13,Ajud. Montagem,13:15,05:00,Solteiro,08.02.93,8/4/2013,Segunda,TIPICO,ASA,Montagem,"Chocou dedo contra base embolo superior rebitadera, escoriaçoes",0,Corte,Peça do produto,Polegar direito
+3,26.04.13,Eletricista,10:40,04:00,Solteiro,08.03.95,26/4/2013,Sexta,TRAJETO,ACA,Manutenção,"Descarga eletrica politron ao posicionar mãos px oscilador, escoriaçoes",4,Queimadura,Emergia eletrica,Mãos
+4,05.02.86,Motorista,14:45,04:00,Casado,23.11.57,3/5/2013,Sexta,TIPICO,ACA,Suprimento,"Caminhando patio obra anhanguera pisou mangueira, estirou tendão",15,Distenção,Piso irregular,Tornozelo direito
+5,27.09.07,Op.injetora,14:45,02:45,Solteiro,05.02.76,14/5/2013,Terça,TIPICO,ACA,Injeção plastica,"Ao pegar objeto bateu dedo sobre lamina, pequeno ferimento",5,Corte,Lamina,Indicador direito
+6,16.06.12,Ajud.Produção,15:00,06:45,Solteiro,07.07.89,13/5/2013,Segunda,TIPICO,ACA,Confecção,"Martelou dedo ao colocar parafuso no assento interno bolero, trinca",15,Contusão,Martelo borracha,Mediano direito
+7,17.04.95,Lider Montagem,08:50,03:00,Casado,18.05.68,22/5/2013,Quarta,TIPICO,ASA,Montagem,Ao retrabalhar produto aticate bateu em seu labio superior. Escorições,0,Escoriações,Alicate,Labios
+8,01.04.96,Empilhaderista,15:15,07:00,Casado,23.04.68,22/5/2013,Quarta,TIPICO,ASA,Estamparia,"Ao envelopar empilhadeira c/ plastico escorregou caiu, feriu labios.",0,Escoriações,Piso,Nariz e Labios
+9,22.03.10,Montador,10:30,03:30,Solteiro,18.04.88,29/5/2013,Quarta,TIPICO,ACA,Estamparia,"Ao desenroscar produto dentro do estampo, prensou dedo",15,Fratura,Prensa,Anelar esquerdo
+10,19.09.12,Montador III,07:00,00:15,Casado,10.11.86,5/6/2013,Quarta,TIPICO,ACA,Montagem,"Ao puxar a junção do cinto, feiru dedo na agulha.",1,Corte,Maquina,Polegar esquerdo
+11,12.07.10,Op. Maquina,06:30,00:00,Casado,28.05.88,27/8/2013,Terça,TIPICO,ASA,Confecção,"Ao fazer curva de moto caiu, feriu quadril direito",1,Escoriações,Motocicleta,Quadril
+12,25.03.13,Ajud. Montagem,13:15,06:40,Solteiro,10.06.94,3/9/2013,Terça,TRAJETO,ACA,Montagem,"Ao tentar colocar a mão no raio de açao rebitadeira, feiru dedo D.",10,Escoriações,Embolo,Polegar e indicador dir.
+13,17.06.09,Montador III,12:30,00:30,Casado,02.10.88,16/10/2013,Quarta,,ASA,Injeção plastica,"Ao retrabalhar produto at II, estilete feriu polegar esquerdo",0,Corte,Estilete,Polegar esquerdo
+14,01.07.94,Sup. Financeiro,10:00,02:30,Casado,07.07.55,6/11/2013,Quarta,,ACA,Financeiro,"Ao andar rapido pelo corredor adm, escorregou, caiu e feriu a cabeça",2,Escoriações,Piso,Cabeça
+15,06.07.09,Costureira III,15:00,07:00,Casado,19.04.76,3/12/2013,Terça,,ACA,Confecção,"Ao movimentar produto sobre mesa, derrubou tesoura sobre perna dir.",7,Fto inciso,Tesoura,Perna direita
+1,01.07.91,Lider injetora,21:30,03:30,Casado,03.09.69,27/1/2014,Segunda,,ACA,Injeção plastica,Espirrou polipropileno na mão esq ao aquecer canhão sem usar epi´s,7,Queimadura,Temperatura produto,Mão esquerda
+2,06.02.14,Ajud. Montagem,14:20,05:30,Solteiro,16.11.94,6/2/2014,Quarta,,ACA,Montagem esteira Aldir,"Colocou dedo no raio ação rebite, acionou rebitadera , escoriação",5,Corte,Rebite,Polegar esquerdo
+3,25.05.09,Op. Injetora,09:30,03:30,Casado,07.09.86,24/3/2014,Segunda,,ACA,Injetora 30,"Ao reberbar o produto 3041 c/ estilete, feriu pulso esquerdo",1,Corte,Estilete,Punho esquerdo
+4,01.07.91,Lider injetora,17:45,0,Casado,03.09.69,25/3/2014,Terça,,ACA,Injeção plastica,Acidente de moto envolvendo um terceiro veiculo,7,Traumatismo,Motocicleta,Perna esquerda
+5,13.03.95,Op. Injetora,17:45,0,Casado,10.07.60,25/3/2014,Terça,,ACA,Injeção plastica,Acidente de moto envolvendo um terceiro veiculo,90,Fratura,Motocicleta,Perna esquerda
+6,14.05.12,Montador III,06:20,0,Solteiro,18.08.90,26/3/2014,Quarta,,ASA,Montagem esteira Reinaldo,"Moto Biz derrrapou no oleo, derrubou, bateu cabeça",0,Luxação,Motocicleta,Cabeça
