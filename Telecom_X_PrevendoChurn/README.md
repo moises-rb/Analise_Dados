@@ -50,12 +50,12 @@ Esse projeto simula o dia a dia de um Analista de ML Júnior que precisa transfo
 |------|--------|
 | Criação do repositório e definição do desafio | ✅ |
 | Estruturação inicial do projeto e pastas | ✅ |
-| Pré-processamento dos dados | ⬜ |
-| Análise de correlação e seleção de variáveis | ⬜ |
-| Treinamento de modelos de classificação | ⬜ |
-| Avaliação e comparação dos modelos | ⬜ |
-| Interpretação com SHAP / Feature Importance | ⬜ |
-| Conclusão com insights estratégicos | ⬜ |
+| Pré-processamento dos dados | ✅ |
+| Análise de correlação e seleção de variáveis | ✅ |
+| Treinamento de modelos de classificação | ✅ |
+| Avaliação e comparação dos modelos | ✅ |
+| Interpretação com SHAP / Feature Importance | ✅ |
+| Conclusão com insights estratégicos | ✅ |
 | Publicação de artigo no Medium e LinkedIn | ⬜ |
 
 ---
